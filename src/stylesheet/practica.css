@@ -1,0 +1,29 @@
+
+
+.column1{
+    color: white;
+    padding: 2rem !important;
+    height: 100vh;
+    background-size: cover;
+    width: 150vh;
+}
+
+.columna2{
+    background-color: white;
+    padding: 2rem !important;
+    height: 100vh;
+}
+
+
+.boto{
+    width: 100px;
+    background-color: rgb(218, 212, 212) !important;
+}
+
+.images{
+    width: 8rem;
+}
+
+.img-gif{
+    width: 135rem;
+}
